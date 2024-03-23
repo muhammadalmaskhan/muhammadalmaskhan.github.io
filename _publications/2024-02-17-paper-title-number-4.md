@@ -2,9 +2,9 @@
 title: "Enhancing IoT network security through deep learning-powered Intrusion Detection System"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+excerpt: 'IoT Security.'
+date: 2023-04-17
+venue: 'Internet of Things'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2542660523002597'
 citation: 'Bakhsh, S. A., Khan, M. A., Ahmed, F., Alshehri, M. S., Ali, H., & Ahmad, J. (2023). Enhancing IoT network security through deep learning-powered Intrusion Detection System. Internet of Things, 24, 100936.'
 ---
