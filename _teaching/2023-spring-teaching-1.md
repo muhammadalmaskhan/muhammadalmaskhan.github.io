@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Islamabad, Pakistan"
 ---
 
-MT2002: Statistical Modeling
+MT2002: Statistical Modeling & Numerical 
 
 
 CS2008: Numerical Computing
