@@ -5,8 +5,8 @@ type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "School of Computing: Department of Computer Sciences, FAST NUCES"
 date: 2023-01-01
-location: "City, Country"
----
+location: "Islamabad, Pakistan"
+---------------------
 
 MT2002: Statistical Modeling
 
