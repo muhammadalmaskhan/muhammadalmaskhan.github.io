@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M. Phil in Computer Sciences, Quaid i Azam University (Islamabad), 2021 
+* M.Sc. in Computer Sciences, University Peshawar Pakistan, 2017
+* B.Sc. in Computer Science & Mathematics, AWKUM, 2014
 
 Work experience
 ======
@@ -22,10 +22,10 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020: Research Assistant
+  * Quaid i Azam University
+  * Duties included: Full time research in IoT Security
+  * Supervisor: Professor Dr. Muazzam A Khan Khattak
 
 * Summer 2015: Research Assistant
   * Github University
