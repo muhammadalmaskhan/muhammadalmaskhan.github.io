@@ -7,9 +7,8 @@ venue: "School of Computing: Department of Computer Sciences, FAST NUCES"
 date: 2023-01-01
 location: "Islamabad, Pakistan"
 ---
-
-MT2002: Statistical Modeling & Numerical 
-
+---
+MT2002: Statistical Modeling 
 
 CS2008: Numerical Computing
 
