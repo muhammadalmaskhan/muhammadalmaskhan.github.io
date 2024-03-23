@@ -17,29 +17,28 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Lecturer
+  * FAST NUCES 
+  * Duties includes: Teaching and plus administrative tasks
 
-* Fall 2020: Research Assistant
+* Research Assistant
   * Quaid i Azam University
   * Duties included: Full time research in IoT Security
   * Supervisor: Professor Dr. Muazzam A Khan Khattak
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Acadamic Reviewer
+  * PeerJ
+  * CMC
+  * Conferences
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Write up
+* Programming in python
+  * Pymc
+  * Networkx
+  * Tensorflow and pytorch
+* Graphics designing and Video editting
 
 Publications
 ======
