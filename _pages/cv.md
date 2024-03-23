@@ -22,7 +22,7 @@ Work experience
   * Duties includes: Teaching and plus administrative tasks
 
 * Research Assistant
-  * Quaid i Azam University
+  * ICESCO Chair for Big Data Analytics and Edge Computing at Quaid i Azam University
   * Duties included: Full time research in IoT Security
   * Supervisor: Professor Dr. Muazzam A Khan Khattak
 
