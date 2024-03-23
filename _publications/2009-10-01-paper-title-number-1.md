@@ -1,12 +1,12 @@
 ---
-title: "Ensemble learning-based IDS for sensors telemetry data in IoT networks"
+title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'IoT Security.'
-date: 2022
-venue: 'Conference'
-paperurl: 'https://napier-repository.worktribe.com/output/2894905'
-citation: 'Naz, N., Khan, M. A., Alsuhibany, S. A., Diyan, M., Tan, Z., Khan, M. A., & Ahmad, J. (2022). Ensemble learning-based IDS for sensors telemetry data in IoT networks. Mathematical Biosciences and Engineering, 19(10).'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The Internet of Things (IoT) is a paradigm that connects a range of physical smart devices to provide ubiquitous services to individuals and automate their daily tasks. IoT devices collect data from the surrounding environment and communicate with other devices using different communication protocols such as CoAP, MQTT, DDS, etc. Study shows that these protocols are vulnerable to attack and prove a significant threat to IoT telemetry data. Within a network, IoT devices are interdependent, and the behaviour of one device depends on the data coming from another device. An intruder exploits vulnerabilities of a device's interdependent feature and can alter the telemetry data to indirectly control the behaviour of other dependent devices in a network. Therefore, securing IoT devices have become a significant concern in IoT networks. The research community often proposes intrusion Detection Systems (IDS) using different techniques. One of the most adopted techniques is machine learning (ML) based intrusion detection. This study suggests a stacking-based ensemble model makes IoT devices more intelligent for detecting unusual behaviour in IoT networks. The TON-IoT (2020) dataset is used to assess the effectiveness of the proposed model. The proposed model achieves significant improvements in accuracy and other evaluation measures in binary and multi-class classification scenarios for most of the sensors compared to traditional ML algorithms and other ensemble techniques
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
