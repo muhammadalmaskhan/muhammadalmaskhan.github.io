@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Doing research in IoT security"
   location         : "Earth"
-  employer         : "Fast NUCES Islamabad"
+  employer         : "FAST NUCES Islamabad"
   uri              : # URL
   email            : "muhammad.almas@nu.edu.pk" 
 
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=s23eUgcAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
