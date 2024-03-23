@@ -2,7 +2,7 @@
 title: "Teaching experience"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2023-spring-teaching-1
 venue: "School of Computing: Department of Computer Sciences, FAST NUCES"
 date: 2023-01-01
 location: "Islamabad, Pakistan"
