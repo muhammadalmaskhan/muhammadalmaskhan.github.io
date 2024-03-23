@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Fall 2023"
 collection: teaching
-type: "Workshop"
+type: "teaching"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "FAST School of Computing, Department of Computer Sciences"
 date: 2015-01-01
-location: "City, Country"
+location: "Islamabad, Pakistan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+CS2008: Numerical Computing
 ======
 
-Heading 2
+MT2002: Statistical Modeling
 ======
 
-Heading 3
-======
