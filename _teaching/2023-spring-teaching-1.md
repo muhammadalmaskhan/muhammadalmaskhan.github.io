@@ -9,9 +9,7 @@ location: "Islamabad, Pakistan"
 ---
 ===========================
 
-MT2002: Statistical Modeling 
-
-CS2008: Numerical Computing
+MT2002: Statistical Modeling & CS2008: Numerical Computing
 
 ===============Details are below============================
 
