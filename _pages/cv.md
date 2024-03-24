@@ -54,6 +54,10 @@ Skills
 * Graphics designing and Video editting
 
 
+Awards
+======
+* Best paper award.
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams.
