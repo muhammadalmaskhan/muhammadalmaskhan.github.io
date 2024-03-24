@@ -60,7 +60,7 @@ Service and leadership
 
 Certifications
 ======
-* WIll update this soon.
+* WIll update this soon [Under progress ...].
 * [Python](https://www.coursera.org/account/accomplishments/certificate/L3W76YYJEEFG)
 * [Python Data Structure](https://www.coursera.org/account/accomplishments/certificate/M3AHSYWWGQUZ)
 * [Java Script, HTML, CSS](https://www.coursera.org/account/accomplishments/certificate/M3AHSYWWGQUZ)
