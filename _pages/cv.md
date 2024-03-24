@@ -61,5 +61,5 @@ Service and leadership
 Certifications
 ======
 * WIll update this soon
-* [Certificate 1](https://www.coursera.org/account/accomplishments/specialization/certificate/RNGWX759ZDQ5): Description of certificate 1.
+* saks
 
