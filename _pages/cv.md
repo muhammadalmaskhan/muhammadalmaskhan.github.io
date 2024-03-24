@@ -61,4 +61,5 @@ Service and leadership
 Certifications
 ======
 * WIll update this soon.
+* [Python](https://www.coursera.org/account/accomplishments/certificate/L3W76YYJEEFG)
 
