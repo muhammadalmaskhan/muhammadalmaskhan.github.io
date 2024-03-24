@@ -61,5 +61,5 @@ Service and leadership
 Certifications
 ======
 * WIll update this soon
-* [Python](cs.qau.edu.pk)
+* [Certificate 1](https://www.coursera.org/account/accomplishments/specialization/certificate/RNGWX759ZDQ5): Description of certificate 1.
 
