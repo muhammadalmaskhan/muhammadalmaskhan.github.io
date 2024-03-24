@@ -61,5 +61,4 @@ Service and leadership
 Certifications
 ======
 * WIll update this soon
-* saks
 
