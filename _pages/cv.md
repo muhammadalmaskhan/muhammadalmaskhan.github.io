@@ -56,7 +56,7 @@ Skills
 
 Awards
 ======
-* Best paper award.
+* [Best paper award](https://drive.google.com/file/d/1cx9oQWCuLlkuCCVW35Z7ChvN6Z1jcXDK/view?pli=1)
 
 Service and leadership
 ======
