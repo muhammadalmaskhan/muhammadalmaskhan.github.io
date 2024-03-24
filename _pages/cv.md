@@ -64,5 +64,5 @@ Certifications
 * [Python](https://www.coursera.org/account/accomplishments/certificate/L3W76YYJEEFG)
 * [Python Data Structure](https://www.coursera.org/account/accomplishments/certificate/M3AHSYWWGQUZ)
 * [Java Script, HTML, CSS](https://www.coursera.org/account/accomplishments/certificate/M3AHSYWWGQUZ)
-
+* [Basic Artificial Neural Networks in Python](https://www.coursera.org/account/accomplishments/certificate/PS7ZW6W8VJQT)
 
