@@ -70,4 +70,5 @@ Certifications
 * [Java Script, HTML, CSS](https://www.coursera.org/account/accomplishments/certificate/M3AHSYWWGQUZ)
 * [Basic Artificial Neural Networks in Python](https://www.coursera.org/account/accomplishments/certificate/PS7ZW6W8VJQT)
 * [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RNGWX759ZDQ5)
+* [Text Retrieval and Search Engines](https://www.coursera.org/account/accomplishments/certificate/F8M6HWZGTBNU)
 
