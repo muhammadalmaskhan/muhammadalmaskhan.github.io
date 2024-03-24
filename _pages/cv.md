@@ -60,5 +60,5 @@ Service and leadership
 
 Certifications
 ======
-* WIll update this soon
+* WIll update this soon.
 
