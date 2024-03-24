@@ -61,4 +61,7 @@ Service and leadership
 Certifications
 ======
 * WIll update this soon
-* [FAST-NUCES](http://isb.nu.edu.pk/Faculty/Details/6528)
+* [Python](https://www.coursera.org/account/accomplishments/certificate/L3W76YYJEEFG)
+* [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/M3AHSYWWGQUZ)
+* [Java Script](https://www.coursera.org/account/accomplishments/certificate/M3AHSYWWGQUZ)
+* [Basic Artifitial Neural Network in Python](https://www.coursera.org/account/accomplishments/certificate/PS7ZW6W8VJQT)
