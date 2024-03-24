@@ -61,3 +61,4 @@ Service and leadership
 Certifications
 ======
 * WIll update this soon
+* [FAST-NUCES](http://isb.nu.edu.pk/Faculty/Details/6528)
