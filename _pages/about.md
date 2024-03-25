@@ -13,8 +13,10 @@ Muhammad Almas Khan, an MPhil graduate in Computer Science from Quaid i Azam Uni
 </div>
 
 
-## IoT Security
+## Research interests
 
-### Network Science
+### 1. IoT Security
+
+### 2. Network Science
 
 
