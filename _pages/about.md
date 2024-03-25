@@ -17,6 +17,10 @@ Muhammad Almas Khan, an MPhil graduate in Computer Science from Quaid i Azam Uni
 
 ### 1. IoT Security
 
+<div style="text-align: justify;">
+- Researching in IoT security, I focus on using machine learning to make connected devices safer from cyber threats. By exploring this intersection, I aim to develop effective solutions to enhance the security of IoT systems. My goal is to contribute to the field by conducting innovative research in this area
+</div>
+
 ### 2. Network Science
 
 
