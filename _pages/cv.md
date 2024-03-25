@@ -48,6 +48,7 @@ Skills
 ======
 * Write up
   * Overleaf
+  * Scientific Workplace
 * Programming in python
   * Pymc
   * Networkx
