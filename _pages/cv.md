@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](C:\Users\almas\Downloads\muhammadalmaskhan.github.io\files\My__CV.pdf)
+
 Education
 ======
 * M. Phil in Computer Sciences, Quaid i Azam University (Islamabad), 2021 
