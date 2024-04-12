@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](C:\Users\almas\Downloads\muhammadalmaskhan.github.io\files\My__CV.pdf)
+[Download CV here](https://github.com/muhammadalmaskhan/muhammadalmaskhan.github.io/blob/master/files/My__CV.pdf)
 
 Education
 ======
