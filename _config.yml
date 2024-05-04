@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "Welcom"
 title_separator          : "-"
 name                     : &name "Muhammad Almas Khan"
 description              : &description "personal description"
