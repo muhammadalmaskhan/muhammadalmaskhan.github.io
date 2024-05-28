@@ -14,10 +14,10 @@ CS2008: Numerical Computing
 
 ========Details are below============
 
-<p style="text-align: justify;">
+<div class="justify">
 
 In MT2002: Statistical Modeling, I instructed students in the art of inference through models, leveraging PyMC for advanced probabilistic reasoning and decision-making. For more detail [Click here](https://drive.google.com/file/d/1xo2bKmu4uc7TN7jQ9QhMn2L498MtdB8P/view?usp=sharing) <br> In CS2008: Numerical Computing, I guided students in employing various approximation techniques to solve diverse computational problems efficiently, fostering a deep understanding of numerical analysis principles, for more details [Click here](https://drive.google.com/file/d/1EiG-AOEJzdtX05oGPkss6ONOsB9C0rZU/view?usp=sharing)
 
 
 
-</p>
+</div>
