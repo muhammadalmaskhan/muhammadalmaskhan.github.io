@@ -18,7 +18,7 @@ Education
 * B.Sc. in Computer Science & Mathematics, AWKUM, 2014
 
 
-Publications
+Publications [Google Scholar](https://scholar.google.com/citations?user=s23eUgcAAAAJ&hl=en&oi=ao)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
