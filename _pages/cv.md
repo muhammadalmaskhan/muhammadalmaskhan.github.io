@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Get my CV]()
+[Get my CV](asdf)
 
 Education
 ======
