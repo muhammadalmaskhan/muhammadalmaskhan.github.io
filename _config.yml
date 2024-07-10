@@ -21,7 +21,7 @@ repository               : "muhammadalmaskhan/muhammadalmaskhan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profil.png"
+  avatar           : "profile.png"
   name             : "Muhammad Almas Khan"
   pronouns         : # example: "she/her"  
   bio              : "Doing research in IoT security <br> Interested in exploring Network Sciences"
@@ -44,6 +44,7 @@ author:
   dribbble         : # Username
   github           : "https://github.com/muhammadalmaskhan"
   kaggle           : # Username  
+  avatar2           : "w.png"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
