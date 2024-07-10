@@ -21,7 +21,7 @@ repository               : "muhammadalmaskhan/muhammadalmaskhan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "w.gif"
   name             : "Muhammad Almas Khan"
   pronouns         : # example: "she/her"  
   bio              : "Doing research in IoT security <br> Interested in exploring Network Sciences"
