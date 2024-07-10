@@ -3,7 +3,7 @@ title: "Teaching experience"
 collection: teaching
 type: "School of Computing"
 permalink: /teaching/2014-spring-teaching-1
-venue: ": Department of Computer Sciences, FAST NUCES"
+venue: "Department of Computer Sciences, FAST NUCES"
 date: 2023-01-01
 location: "Islamabad, Pakistan"
 ---
