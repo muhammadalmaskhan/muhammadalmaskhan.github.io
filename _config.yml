@@ -25,7 +25,7 @@ author:
   name             : "Muhammad Almas Khan"
   pronouns         : # example: "she/her"  
   bio              : "Doing research in IoT security <br> Interested in exploring Network Sciences"
-  location         : ![Continuous Animation](images/animation.gif)"Islamabad, Pakistan"
+  location         : "Islamabad, Pakistan"
   employer         :  <a href="ttp://isb.nu.edu.pk/">FAST NUCES Islamabad</a>
   uri              : # URL
   email            : "muhammad.almas@nu.edu.pk" 
@@ -43,6 +43,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "https://github.com/muhammadalmaskhan"
+
+                   : ![Continuous Animation](images/animation.gif)
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
