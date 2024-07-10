@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "School of Computing: Department of Computer Sciences, FAST NUCES"
 date: 2023-01-01
