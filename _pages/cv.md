@@ -62,9 +62,9 @@ Awards
 ======
 * [Best paper award](https://drive.google.com/file/d/1cx9oQWCuLlkuCCVW35Z7ChvN6Z1jcXDK/view?pli=1)
 
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams.
+* Currently signed in to 43 different slack teams. -->
 
 Certifications
 ======
