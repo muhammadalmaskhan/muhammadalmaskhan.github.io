@@ -21,7 +21,7 @@ Muhammad Almas Khan, an MPhil graduate in Computer Science (CS) from Quaid i Aza
 
 ### 2. Network Science
 
-- <div style="text-align: justify;"> Fascinated by network science, especially community detection and network assortativity, I explore system dynamics to reveal patterns key to understanding emergence and crafting effective solutions </div>
+- <div style="text-align: justify;"> Fascinated by network science, I study system dynamics to uncover patterns behind emergence and design effective solutions using different tools like Gephi, networksx etc. </div>
 
 <!-- About Me section ends here -->
 
