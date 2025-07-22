@@ -26,6 +26,12 @@
 {% endif %} -->
 
 
+{% include base_path %}
+
+{% if page.author_profile or layout.author_profile or page.sidebar %}
+  <div class="sidebar sticky">
+  
+
     <!-- ClustrMaps Visitor Globe - CONTAINED -->
     <div style="margin-top: 20px; text-align: center; width: 100%;">
       <div style="max-width: 100%; overflow: hidden;">
