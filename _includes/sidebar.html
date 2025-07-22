@@ -11,6 +11,7 @@
           "{{ s.image }}"
         {% else %}
           "{{ s.image | prepend: "/images/" | prepend: base_path }}"
+          <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=XFhXtHTPhWckv9lN2nC03y-VmYQ5PiKPBALTJmj9TLU"></script>
         {% endif %}
         alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
