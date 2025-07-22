@@ -23,15 +23,7 @@ Muhammad Almas Khan, an MPhil graduate in Computer Science (CS) from Quaid i Aza
 
 - <div style="text-align: justify;"> Fascinated by network sciences, particularly in community detection and assortative/dissassortative networks. Exploring the dynamics of interconnected systems, I aim to uncover patterns and relationships crucial for understanding emergent properties and developin effective solutions </div>
 
-<!-- <video width="900" height="250" autoplay loop muted>
+<video width="900" height="250" autoplay loop muted>
   <source src="/images/video.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video> -->
-
- <!-- ✅ ClustrMaps Globe Widget -->
-  <div style="margin-top: 20px; text-align: center;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=XFhXtHTPhWckv9lN2nC03y-VmYQ5PiKPBALTJmj9TLU"></script>
-  </div>
-
-  </div>
-{% endif %}
+</video>
