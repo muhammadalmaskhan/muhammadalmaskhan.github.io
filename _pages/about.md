@@ -25,6 +25,6 @@ Muhammad Almas Khan, an MPhil graduate in Computer Science (CS) from Quaid i Aza
 
 <!-- About Me section ends here -->
 
-<div style="width: 150px; margin: 20px auto; transform: scale(0.4); transform-origin: top center;">
+<div style="width: 200px; margin: 20px auto; transform: scale(0.6); transform-origin: top center;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=XFhXtHTPhWckv9lN2nC03y-VmYQ5PiKPBALTJmj9TLU"></script>
 </div>
