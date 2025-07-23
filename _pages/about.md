@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="text-align: justify;">
 
-Muhammad Almas Khan, an MPhil graduate in Computer Science (CS) from Quaid i Azam University Islamabad (<a href="https://cs.qau.edu.pk/">QAU</a>) is logical, technical, inquisitive, and problem solver. Recently conferred with the best paper winning award at an international conference. Currently working as lecturer in FAST National University of Computer and Emmerging Sciences (<a href="http://isb.nu.edu.pk/Faculty/Details/6528">FAST-NUCES</a>). His main research interests are in Internet of Things (IoT) security, with a good grasp of Machine Learning (ML) and related topics. He's excited to explore various computer science subjects and welcomes new challenges.
+Muhammad Almas Khan holds an MPhil in Computer Science from Quaid i Azam University Islamabad (<a href="https://cs.qau.edu.pk/">QAU</a>). He is a logical and inquisitive problem-solver, recently awarded Best Paper at an international conference. Currently a lecturer at FAST National University of Computer and Emmerging Sciences (<a href="http://isb.nu.edu.pk/Faculty/Details/6528">FAST-NUCES</a>), his research focuses on IoT security, with a strong interest in Machine Learning and broader computer science challenges.
 </div>
 
 
