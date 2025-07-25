@@ -26,10 +26,6 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Doing research in IoT security <br> Interested in exploring Network Sciences"
   location         : "Islamabad, Pakistan"
-  
-  <div style="width: 245px; margin: 20px auto; transform: scale(0.8); transform-origin: top center;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=XFhXtHTPhWckv9lN2nC03y-VmYQ5PiKPBALTJmj9TLU"></script></div>
-
   employer         :  <a href="ttp://isb.nu.edu.pk/">FAST NUCES Islamabad</a>
   uri              : # URL
   email            : "muhammad.almas@nu.edu.pk" 
