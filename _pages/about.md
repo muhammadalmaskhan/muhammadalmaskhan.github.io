@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="width: 245px; margin: 20px auto; transform: scale(0.8); transform-origin: top center;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=XFhXtHTPhWckv9lN2nC03y-VmYQ5PiKPBALTJmj9TLU"></script>
-</div>
-
 
 <div style="text-align: justify;">
  <a href="https://github.com/muhammadalmaskhan">
