@@ -27,7 +27,7 @@ Muhammad Almas Khan</a> holds an MPhil in Computer Science from Quaid i Azam Uni
 ### 2. Network Science
 
 - <div style="text-align: justify;"> Fascinated by network science, I study system dynamics to uncover patterns behind emergence and design effective solutions using different tools like Gephi, networksx etc. </div>
-<iframe src="/CoAuth/" width="130%" height="600px" style="border: none;"></iframe>
+<iframe src="/CoAuth/" width="120%" height="600px" style="border: none;"></iframe>
 
 
 
