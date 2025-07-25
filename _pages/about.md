@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<!-- <div style="width: 245px; margin: 20px auto; transform: scale(0.8); transform-origin: top center;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=XFhXtHTPhWckv9lN2nC03y-VmYQ5PiKPBALTJmj9TLU"></script>
+</div> -->
+
 
 <div style="text-align: justify;">
  <a href="https://github.com/muhammadalmaskhan">
@@ -23,7 +27,7 @@ Muhammad Almas Khan</a> holds an MPhil in Computer Science from Quaid i Azam Uni
 ### 2. Network Science
 
 - <div style="text-align: justify;"> Fascinated by network science, I study system dynamics to uncover patterns behind emergence and design effective solutions using different tools like Gephi, networksx etc. </div>
-<iframe src="/CoAuth/" width="100%" height="700px" style="border: none;"></iframe>
+<iframe src="/CoAuth/" width="50%" height="400px" style="border: none;"></iframe>
 
 
 
