@@ -76,3 +76,10 @@ Certifications
 * [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/RNGWX759ZDQ5)
 * [Text Retrieval and Search Engines](https://www.coursera.org/account/accomplishments/certificate/F8M6HWZGTBNU)
 
+Academic Trainings
+======
+
+* [The Researcher Profiles in Web of Science](https://drive.google.com/file/d/1k2gzM0jTE-tKqKZ-fix9__4MVYQfwpTW/view?usp=sharing)
+* [Publishing in Open Access with IEEE Journals](https://drive.google.com/file/d/1kktuhnx1TVoqwZNXONcTv3YkGMI2fL0b/view?usp=sharing)
+* [From Research to Publication: An Overview on IEEE Publication Process](https://drive.google.com/file/d/1fUTiHfxNFGJyyCtiL99gUcN-7QZ7DNy8/view?usp=sharing)
+* [Webinar Journal Citation Reports (JCR)](https://drive.google.com/file/d/1bwoLYfcy-80nko4Gi7dvP6LL1U66VJmt/view?usp=sharing)
